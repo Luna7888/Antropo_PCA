@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1faUYVvlOpURdVEAlU1RMTTzs3xsAg2agzF/kIXBcFFPFV0F+9BN3WxeBg/61m9U9a4s0R0aRu2WIcbYeyW3vQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Users\\Desktop\\Antropfagico - PCA\\Antropofagico - PCA - Copia\\Antropofagico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Users\\.nuget\\packages\\hdf.pinvoke\\1.10.6.1\\hdf.pinvoke.1.10.6.1.nupkg.sha512",
+    "C:\\Users\\Users\\.nuget\\packages\\hdf.pinvoke.netstandard\\1.10.502\\hdf.pinvoke.netstandard.1.10.502.nupkg.sha512"
+  ],
+  "logs": []
+}

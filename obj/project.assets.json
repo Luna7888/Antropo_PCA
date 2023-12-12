@@ -1,0 +1,217 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-windows7.0": {
+      "HDF.PInvoke/1.10.6.1": {
+        "type": "package",
+        "build": {
+          "build/HDF.PInvoke.targets": {}
+        }
+      },
+      "HDF.PInvoke.NETStandard/1.10.502": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/HDF.PInvoke.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/HDF.PInvoke.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/libhdf5.so": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libhdf5.so.103": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libhdf5_hl.so": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libhdf5_hl.so.100": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/osx-x64/native/libhdf5.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/osx-x64/native/libhdf5_hl.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/win-x64/native/hdf5.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x64/native/hdf5_hl.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x64/native/zlib1.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x86/native/hdf5.dll": {
+            "assetType": "native",
+            "rid": "win-x86"
+          },
+          "runtimes/win-x86/native/hdf5_hl.dll": {
+            "assetType": "native",
+            "rid": "win-x86"
+          },
+          "runtimes/win-x86/native/zlib1.dll": {
+            "assetType": "native",
+            "rid": "win-x86"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HDF.PInvoke/1.10.6.1": {
+      "sha512": "njOV1dJC1glnRte0QLN8v4X2KCWcZYTQDI3z169CF5/61fRGRuZk2GNdLllEmYiTTb+kjPIYLrh9/161bake2A==",
+      "type": "package",
+      "path": "hdf.pinvoke/1.10.6.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/HDF.PInvoke.targets",
+        "build/HDF5options.cmake",
+        "build/bin32/hdf5.dll",
+        "build/bin32/hdf5.pdb",
+        "build/bin32/hdf5_hl.dll",
+        "build/bin32/hdf5_hl.pdb",
+        "build/bin32/szip.dll",
+        "build/bin32/zlib.dll",
+        "build/bin64/hdf5.dll",
+        "build/bin64/hdf5.pdb",
+        "build/bin64/hdf5_hl.dll",
+        "build/bin64/hdf5_hl.pdb",
+        "build/bin64/szip.dll",
+        "build/bin64/zlib.dll",
+        "hdf.pinvoke.1.10.6.1.nupkg.sha512",
+        "hdf.pinvoke.nuspec",
+        "lib/HDF.PInvoke.XML",
+        "lib/HDF.PInvoke.dll",
+        "lib/HDF.PInvoke.dll.config"
+      ]
+    },
+    "HDF.PInvoke.NETStandard/1.10.502": {
+      "sha512": "PoRWGbJr9c8rVNC+3Blo+jpzwBN/MQRC7XaP4HCmof0DnxXVe1/dpjd0pP6mDaQL8fm9yAGf5CYuzk1ETHTK0w==",
+      "type": "package",
+      "path": "hdf.pinvoke.netstandard/1.10.502",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "hdf.pinvoke.netstandard.1.10.502.nupkg.sha512",
+        "hdf.pinvoke.netstandard.nuspec",
+        "lib/netstandard2.0/HDF.PInvoke.dll",
+        "lib/netstandard2.0/HDF.PInvoke.xml",
+        "runtimes/linux-x64/native/libhdf5.so",
+        "runtimes/linux-x64/native/libhdf5.so.103",
+        "runtimes/linux-x64/native/libhdf5_hl.so",
+        "runtimes/linux-x64/native/libhdf5_hl.so.100",
+        "runtimes/osx-x64/native/libhdf5.dylib",
+        "runtimes/osx-x64/native/libhdf5_hl.dylib",
+        "runtimes/win-x64/native/hdf5.dll",
+        "runtimes/win-x64/native/hdf5_hl.dll",
+        "runtimes/win-x64/native/zlib1.dll",
+        "runtimes/win-x86/native/hdf5.dll",
+        "runtimes/win-x86/native/hdf5_hl.dll",
+        "runtimes/win-x86/native/zlib1.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0-windows7.0": [
+      "HDF.PInvoke >= 1.10.6.1",
+      "HDF.PInvoke.NETStandard >= 1.10.502"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Users\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Users\\Desktop\\Antropfagico - PCA\\Antropofagico - PCA - Copia\\Antropofagico.csproj",
+      "projectName": "Antropofagico",
+      "projectPath": "C:\\Users\\Users\\Desktop\\Antropfagico - PCA\\Antropofagico - PCA - Copia\\Antropofagico.csproj",
+      "packagesPath": "C:\\Users\\Users\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Users\\Desktop\\Antropfagico - PCA\\Antropofagico - PCA - Copia\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Users\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
+        "dependencies": {
+          "HDF.PInvoke": {
+            "target": "Package",
+            "version": "[1.10.6.1, )"
+          },
+          "HDF.PInvoke.NETStandard": {
+            "target": "Package",
+            "version": "[1.10.502, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,353 @@
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\Antropofagico.exe
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\Antropofagico.deps.json
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\Antropofagico.runtimeconfig.json
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\Antropofagico.dll
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\Antropofagico.pdb
+C:\Users\Users\Desktop\Antropofagico-master\obj\Debug\net7.0-windows\Antropofagico.csproj.AssemblyReference.cache
+C:\Users\Users\Desktop\Antropofagico-master\obj\Debug\net7.0-windows\Antropofagico.Form1.resources
+C:\Users\Users\Desktop\Antropofagico-master\obj\Debug\net7.0-windows\Antropofagico.Properties.Resources.resources
+C:\Users\Users\Desktop\Antropofagico-master\obj\Debug\net7.0-windows\Antropofagico.csproj.GenerateResource.cache
+C:\Users\Users\Desktop\Antropofagico-master\obj\Debug\net7.0-windows\Antropofagico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Users\Desktop\Antropofagico-master\obj\Debug\net7.0-windows\Antropofagico.AssemblyInfoInputs.cache
+C:\Users\Users\Desktop\Antropofagico-master\obj\Debug\net7.0-windows\Antropofagico.AssemblyInfo.cs
+C:\Users\Users\Desktop\Antropofagico-master\obj\Debug\net7.0-windows\Antropofagico.csproj.CoreCompileInputs.cache
+C:\Users\Users\Desktop\Antropofagico-master\obj\Debug\net7.0-windows\Antropofagico.dll
+C:\Users\Users\Desktop\Antropofagico-master\obj\Debug\net7.0-windows\refint\Antropofagico.dll
+C:\Users\Users\Desktop\Antropofagico-master\obj\Debug\net7.0-windows\Antropofagico.pdb
+C:\Users\Users\Desktop\Antropofagico-master\obj\Debug\net7.0-windows\Antropofagico.genruntimeconfig.cache
+C:\Users\Users\Desktop\Antropofagico-master\obj\Debug\net7.0-windows\ref\Antropofagico.dll
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\bin32\hdf5.dll
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\bin32\hdf5.pdb
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\bin32\hdf5_hl.dll
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\bin32\hdf5_hl.pdb
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\bin32\szip.dll
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\bin32\zlib.dll
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\bin64\hdf5.dll
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\bin64\hdf5.pdb
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\bin64\hdf5_hl.dll
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\bin64\hdf5_hl.pdb
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\bin64\szip.dll
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\bin64\zlib.dll
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\HDF.PInvoke.dll
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5.so
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5.so.103
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5_hl.so
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5_hl.so.100
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libhdf5.dylib
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libhdf5_hl.dylib
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\runtimes\win-x64\native\hdf5.dll
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\runtimes\win-x64\native\hdf5_hl.dll
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\runtimes\win-x64\native\zlib1.dll
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\runtimes\win-x86\native\hdf5.dll
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\runtimes\win-x86\native\hdf5_hl.dll
+C:\Users\Users\Desktop\Antropofagico-master\bin\Debug\net7.0-windows\runtimes\win-x86\native\zlib1.dll
+C:\Users\Users\Desktop\Antropofagico-master\obj\Debug\net7.0-windows\Antropofagico.csproj.CopyComplete
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\Antropofagico.exe
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\bin32\hdf5.dll
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\bin32\hdf5.pdb
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\bin32\hdf5_hl.dll
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\bin32\hdf5_hl.pdb
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\bin32\szip.dll
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\bin32\zlib.dll
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\bin64\hdf5.dll
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\bin64\hdf5.pdb
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\bin64\hdf5_hl.dll
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\bin64\hdf5_hl.pdb
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\bin64\szip.dll
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\bin64\zlib.dll
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\Antropofagico.deps.json
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\Antropofagico.runtimeconfig.json
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\Antropofagico.dll
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\Antropofagico.pdb
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\HDF.PInvoke.dll
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5.so
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5.so.103
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5_hl.so
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5_hl.so.100
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libhdf5.dylib
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libhdf5_hl.dylib
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\runtimes\win-x64\native\hdf5.dll
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\runtimes\win-x64\native\hdf5_hl.dll
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\runtimes\win-x64\native\zlib1.dll
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\runtimes\win-x86\native\hdf5.dll
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\runtimes\win-x86\native\hdf5_hl.dll
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\bin\Debug\net7.0-windows\runtimes\win-x86\native\zlib1.dll
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\obj\Debug\net7.0-windows\Antropofagico.csproj.AssemblyReference.cache
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\obj\Debug\net7.0-windows\Antropofagico.Form1.resources
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\obj\Debug\net7.0-windows\Antropofagico.Properties.Resources.resources
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\obj\Debug\net7.0-windows\Antropofagico.csproj.GenerateResource.cache
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\obj\Debug\net7.0-windows\Antropofagico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\obj\Debug\net7.0-windows\Antropofagico.AssemblyInfoInputs.cache
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\obj\Debug\net7.0-windows\Antropofagico.AssemblyInfo.cs
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\obj\Debug\net7.0-windows\Antropofagico.csproj.CoreCompileInputs.cache
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\obj\Debug\net7.0-windows\Antropofagico.csproj.CopyComplete
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\obj\Debug\net7.0-windows\Antropofagico.dll
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\obj\Debug\net7.0-windows\refint\Antropofagico.dll
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\obj\Debug\net7.0-windows\Antropofagico.pdb
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\obj\Debug\net7.0-windows\Antropofagico.genruntimeconfig.cache
+C:\Users\Users\Desktop\Antropofagico_Com_Thread-main\obj\Debug\net7.0-windows\ref\Antropofagico.dll
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\Antropofagico.exe
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\bin32\hdf5.dll
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\bin32\hdf5.pdb
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\bin32\hdf5_hl.dll
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\bin32\hdf5_hl.pdb
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\bin32\szip.dll
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\bin32\zlib.dll
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\bin64\hdf5.dll
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\bin64\hdf5.pdb
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\bin64\hdf5_hl.dll
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\bin64\hdf5_hl.pdb
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\bin64\szip.dll
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\bin64\zlib.dll
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\Antropofagico.deps.json
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\Antropofagico.runtimeconfig.json
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\Antropofagico.dll
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\Antropofagico.pdb
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\HDF.PInvoke.dll
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5.so
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5.so.103
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5_hl.so
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5_hl.so.100
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libhdf5.dylib
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libhdf5_hl.dylib
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\runtimes\win-x64\native\hdf5.dll
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\runtimes\win-x64\native\hdf5_hl.dll
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\runtimes\win-x64\native\zlib1.dll
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\runtimes\win-x86\native\hdf5.dll
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\runtimes\win-x86\native\hdf5_hl.dll
+C:\Users\Users\Desktop\Antropofagico - PCA\bin\Debug\net7.0-windows\runtimes\win-x86\native\zlib1.dll
+C:\Users\Users\Desktop\Antropofagico - PCA\obj\Debug\net7.0-windows\Antropofagico.csproj.AssemblyReference.cache
+C:\Users\Users\Desktop\Antropofagico - PCA\obj\Debug\net7.0-windows\Antropofagico.Form1.resources
+C:\Users\Users\Desktop\Antropofagico - PCA\obj\Debug\net7.0-windows\Antropofagico.Properties.Resources.resources
+C:\Users\Users\Desktop\Antropofagico - PCA\obj\Debug\net7.0-windows\Antropofagico.csproj.GenerateResource.cache
+C:\Users\Users\Desktop\Antropofagico - PCA\obj\Debug\net7.0-windows\Antropofagico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Users\Desktop\Antropofagico - PCA\obj\Debug\net7.0-windows\Antropofagico.AssemblyInfoInputs.cache
+C:\Users\Users\Desktop\Antropofagico - PCA\obj\Debug\net7.0-windows\Antropofagico.AssemblyInfo.cs
+C:\Users\Users\Desktop\Antropofagico - PCA\obj\Debug\net7.0-windows\Antropofagico.csproj.CoreCompileInputs.cache
+C:\Users\Users\Desktop\Antropofagico - PCA\obj\Debug\net7.0-windows\Antropofagico.csproj.CopyComplete
+C:\Users\Users\Desktop\Antropofagico - PCA\obj\Debug\net7.0-windows\Antropofagico.dll
+C:\Users\Users\Desktop\Antropofagico - PCA\obj\Debug\net7.0-windows\refint\Antropofagico.dll
+C:\Users\Users\Desktop\Antropofagico - PCA\obj\Debug\net7.0-windows\Antropofagico.pdb
+C:\Users\Users\Desktop\Antropofagico - PCA\obj\Debug\net7.0-windows\Antropofagico.genruntimeconfig.cache
+C:\Users\Users\Desktop\Antropofagico - PCA\obj\Debug\net7.0-windows\ref\Antropofagico.dll
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\Antropofagico.exe
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\hdf5.dll
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\hdf5.pdb
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\hdf5_hl.dll
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\hdf5_hl.pdb
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\szip.dll
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\zlib.dll
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\hdf5.dll
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\hdf5.pdb
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\hdf5_hl.dll
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\hdf5_hl.pdb
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\szip.dll
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\zlib.dll
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\Antropofagico.deps.json
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\Antropofagico.runtimeconfig.json
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\Antropofagico.dll
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\Antropofagico.pdb
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\HDF.PInvoke.dll
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5.so
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5.so.103
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5_hl.so
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5_hl.so.100
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libhdf5.dylib
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libhdf5_hl.dylib
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x64\native\hdf5.dll
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x64\native\hdf5_hl.dll
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x64\native\zlib1.dll
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x86\native\hdf5.dll
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x86\native\hdf5_hl.dll
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x86\native\zlib1.dll
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.csproj.AssemblyReference.cache
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.Form1.resources
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.Properties.Resources.resources
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.csproj.GenerateResource.cache
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.AssemblyInfoInputs.cache
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.AssemblyInfo.cs
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.csproj.CoreCompileInputs.cache
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.csproj.CopyComplete
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.dll
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\refint\Antropofagico.dll
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.pdb
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.genruntimeconfig.cache
+C:\Users\Users\Desktop\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\ref\Antropofagico.dll
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\Antropofagico.exe
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\hdf5.dll
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\hdf5.pdb
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\hdf5_hl.dll
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\hdf5_hl.pdb
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\szip.dll
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\zlib.dll
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\hdf5.dll
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\hdf5.pdb
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\hdf5_hl.dll
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\hdf5_hl.pdb
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\szip.dll
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\zlib.dll
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\Antropofagico.deps.json
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\Antropofagico.runtimeconfig.json
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\Antropofagico.dll
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\Antropofagico.pdb
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\HDF.PInvoke.dll
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5.so
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5.so.103
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5_hl.so
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5_hl.so.100
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libhdf5.dylib
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libhdf5_hl.dylib
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x64\native\hdf5.dll
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x64\native\hdf5_hl.dll
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x64\native\zlib1.dll
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x86\native\hdf5.dll
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x86\native\hdf5_hl.dll
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x86\native\zlib1.dll
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.csproj.AssemblyReference.cache
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.Form1.resources
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.Properties.Resources.resources
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.csproj.GenerateResource.cache
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.AssemblyInfoInputs.cache
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.AssemblyInfo.cs
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.csproj.CoreCompileInputs.cache
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.csproj.CopyComplete
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.dll
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\refint\Antropofagico.dll
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.pdb
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.genruntimeconfig.cache
+C:\Users\LISCOMP\Documents\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\ref\Antropofagico.dll
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\Antropofagico.exe
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\hdf5.dll
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\hdf5.pdb
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\hdf5_hl.dll
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\hdf5_hl.pdb
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\szip.dll
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\zlib.dll
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\hdf5.dll
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\hdf5.pdb
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\hdf5_hl.dll
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\hdf5_hl.pdb
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\szip.dll
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\zlib.dll
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\Antropofagico.deps.json
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\Antropofagico.runtimeconfig.json
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\Antropofagico.dll
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\Antropofagico.pdb
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\HDF.PInvoke.dll
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5.so
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5.so.103
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5_hl.so
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5_hl.so.100
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libhdf5.dylib
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libhdf5_hl.dylib
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x64\native\hdf5.dll
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x64\native\hdf5_hl.dll
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x64\native\zlib1.dll
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x86\native\hdf5.dll
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x86\native\hdf5_hl.dll
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x86\native\zlib1.dll
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.csproj.AssemblyReference.cache
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.Form1.resources
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.Properties.Resources.resources
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.csproj.GenerateResource.cache
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.AssemblyInfoInputs.cache
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.AssemblyInfo.cs
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.csproj.CoreCompileInputs.cache
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.csproj.CopyComplete
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.dll
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\refint\Antropofagico.dll
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.pdb
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.genruntimeconfig.cache
+C:\Users\oedua\OneDrive\Área de Trabalho\trabalho\Luna_Penetra\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\ref\Antropofagico.dll
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\Antropofagico.exe
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\hdf5.dll
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\hdf5.pdb
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\hdf5_hl.dll
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\hdf5_hl.pdb
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\szip.dll
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\zlib.dll
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\hdf5.dll
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\hdf5.pdb
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\hdf5_hl.dll
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\hdf5_hl.pdb
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\szip.dll
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\zlib.dll
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\Antropofagico.deps.json
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\Antropofagico.runtimeconfig.json
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\Antropofagico.dll
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\Antropofagico.pdb
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\HDF.PInvoke.dll
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5.so
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5.so.103
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5_hl.so
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5_hl.so.100
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libhdf5.dylib
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libhdf5_hl.dylib
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x64\native\hdf5.dll
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x64\native\hdf5_hl.dll
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x64\native\zlib1.dll
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x86\native\hdf5.dll
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x86\native\hdf5_hl.dll
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x86\native\zlib1.dll
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.csproj.AssemblyReference.cache
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.Form1.resources
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.Properties.Resources.resources
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.csproj.GenerateResource.cache
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.AssemblyInfoInputs.cache
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.AssemblyInfo.cs
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.csproj.CoreCompileInputs.cache
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.csproj.CopyComplete
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.dll
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\refint\Antropofagico.dll
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.pdb
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.genruntimeconfig.cache
+C:\Users\Users\Desktop\t\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\ref\Antropofagico.dll
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\Antropofagico.exe
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\hdf5.dll
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\hdf5.pdb
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\hdf5_hl.dll
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\hdf5_hl.pdb
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\szip.dll
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin32\zlib.dll
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\hdf5.dll
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\hdf5.pdb
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\hdf5_hl.dll
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\hdf5_hl.pdb
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\szip.dll
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\bin64\zlib.dll
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\Antropofagico.deps.json
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\Antropofagico.runtimeconfig.json
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\Antropofagico.dll
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\Antropofagico.pdb
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\HDF.PInvoke.dll
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5.so
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5.so.103
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5_hl.so
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libhdf5_hl.so.100
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libhdf5.dylib
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libhdf5_hl.dylib
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x64\native\hdf5.dll
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x64\native\hdf5_hl.dll
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x64\native\zlib1.dll
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x86\native\hdf5.dll
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x86\native\hdf5_hl.dll
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\bin\Debug\net7.0-windows\runtimes\win-x86\native\zlib1.dll
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.csproj.AssemblyReference.cache
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.Form1.resources
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.Properties.Resources.resources
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.csproj.GenerateResource.cache
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.AssemblyInfoInputs.cache
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.AssemblyInfo.cs
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.csproj.CoreCompileInputs.cache
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.csproj.CopyComplete
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.dll
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\refint\Antropofagico.dll
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.pdb
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.genruntimeconfig.cache
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\ref\Antropofagico.dll
+C:\Users\Users\Desktop\Antropfagico - PCA\Antropofagico - PCA - Copia\obj\Debug\net7.0-windows\Antropofagico.Form3.resources
